@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0d2d60755bf504f8f73b75cca3aff0, type: 3}
+  m_Name: JottunData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b86db527bd3904944880963118244d4e, type: 3}
+  color: {r: 0.25467247, g: 0.45668393, b: 0.9150943, a: 1}
+  race: 3
+  allOrders:
+  - {fileID: 11400000, guid: ae063416a47798246a58ceba6cd8edde, type: 2}
+  - {fileID: 11400000, guid: cc7017f8d4771394eab30e72ed0b10c1, type: 2}
+  banditOrders:
+  - {fileID: 11400000, guid: 0bd120e19398fd842b20c69694249718, type: 2}
+  - {fileID: 11400000, guid: 7605f9d918c5be645bc76845fdb8a1bc, type: 2}
+  - {fileID: 11400000, guid: dd9862240db8e2144a9e6ca4810ff3f4, type: 2}
+  - {fileID: 11400000, guid: c0a7ec79bc0b5174fb9b5e7f4caeaffe, type: 2}
+  banditMaterial: {fileID: 2100000, guid: 3a2991ec0800b3842be2aa1aadabc22f, type: 2}
+  question: {fileID: 21300000, guid: 5fb6ec0c203fb0d4da717c665dd66957, type: 3}
+  talksGood:
+  - {fileID: 8300000, guid: 78d5cfc0c09bac040809b27576969747, type: 3}
+  - {fileID: 8300000, guid: 090cc1ee7c35bd149b243d38816e736d, type: 3}
+  - {fileID: 8300000, guid: 0fdfe02d8ec63e24793a55bef36747e1, type: 3}
+  - {fileID: 8300000, guid: bd9d8a4cef40bd8489b19e023b551cf2, type: 3}
+  - {fileID: 8300000, guid: 490441d07fe51024d987cca82f16a452, type: 3}
+  - {fileID: 8300000, guid: 82cf85f4bac98194b8d03c622a258baa, type: 3}
+  - {fileID: 8300000, guid: 12d14e4421d0fdc448fe9a24fb867537, type: 3}
+  - {fileID: 8300000, guid: b91ae6234a26db64ab2b24cb31be060a, type: 3}
+  - {fileID: 8300000, guid: 0363a400291df1a49a6a4c4ce8eccce6, type: 3}
+  - {fileID: 8300000, guid: 3e22aaf1c56841d4d8d67b87dfd60cc5, type: 3}
+  - {fileID: 8300000, guid: dfaf20a8fda71bb4cbf10e047770766e, type: 3}
+  - {fileID: 8300000, guid: f0f7878d0048f1548b4889d78cad0f6e, type: 3}
+  - {fileID: 8300000, guid: 31336f347c78b2641b8ef275e6060622, type: 3}
+  talksBad:
+  - {fileID: 8300000, guid: d1a7aa634fb20e14abc6167add419517, type: 3}
+  - {fileID: 8300000, guid: ca1e9d24539777a4c9971ed8f92b61cf, type: 3}
+  - {fileID: 8300000, guid: 6eae9111cb28c7d4c9eed10faf25dbd7, type: 3}
+  - {fileID: 8300000, guid: 7d995b4d1c69ad8438128b3c8fd17bed, type: 3}
+  - {fileID: 8300000, guid: 60a64c2e154d2734c8f69bbc160123fc, type: 3}
+  - {fileID: 8300000, guid: 643c22ce87bb66747bd4ee55287fe487, type: 3}
+  - {fileID: 8300000, guid: c33f2bf551ac7754d9e952fe28244b80, type: 3}
+  - {fileID: 8300000, guid: d074adca110ee10469d90e2615689860, type: 3}
+  - {fileID: 8300000, guid: b5f576eaf63bd004caf915274e4c4a14, type: 3}
+  - {fileID: 8300000, guid: ac97427db88201c48b68b4b9812ee892, type: 3}
+  eat:
+  - {fileID: 8300000, guid: a7e2a1b0561eb114b988732331e4cfb2, type: 3}
+  - {fileID: 8300000, guid: cdfe94a16197d1b48b84a8d6e390a1e9, type: 3}
+  - {fileID: 8300000, guid: c8788991541e05b40a3def7c72886c29, type: 3}
+  - {fileID: 8300000, guid: 8326086e8d0649f4db62940c51b89ac5, type: 3}
+  drink:
+  - {fileID: 8300000, guid: 637e91ec57bc724468458e49743e17b2, type: 3}
+  - {fileID: 8300000, guid: 764544f1ac477344bb31a0c0e8926554, type: 3}
+  - {fileID: 8300000, guid: 499266e2b7719734596e7566ccb12092, type: 3}
+  thiefEscape: []
+  thiefKick: []

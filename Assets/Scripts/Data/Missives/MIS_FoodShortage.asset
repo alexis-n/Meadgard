@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98c4046f4524314f9f43741497af4a6, type: 3}
+  m_Name: MIS_FoodShortage
+  m_EditorClassIdentifier: 
+  missiveIcon: {fileID: 0}
+  missiveColor: {r: 0.6792453, g: 0.24260037, b: 0.20825918, a: 1}
+  missiveName: "P\xE9nurie de nourriture"
+  missiveDescription: "Il y a une p\xE9nurie de nourriture !\n<color=#D12121>Le restockage
+    en nourriture est plus cher</color>\n<color=#3B932A>Les clients paieront leurs
+    plats plus cher</color>"
+  foodRestockPrice: 1.5
+  drinkRestockPrice: 1
+  deliveryPrice: 1
+  foodRotting: 1
+  drinkRotting: 1
+  waitressFee: 1
+  cookFee: 1
+  bouncerFee: 1
+  bardFee: 1
+  waitressSalary: 1
+  cookSalary: 1
+  bouncerSalary: 1
+  bardSalary: 1
+  waitressSick: 0
+  cookSick: 0
+  bouncerSick: 0
+  bardSick: 0
+  furnitureBuyingPrice: 1
+  furnitureUpgradingPrice: 1
+  furnitureBroken: 0

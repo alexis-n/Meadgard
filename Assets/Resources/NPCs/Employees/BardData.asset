@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11e0b2ff2a92eb45885677abf006310, type: 3}
+  m_Name: BardData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b09600bdec58f554da67558eb5d748ce, type: 3}
+  color: {r: 0.31674948, g: 0.7735849, b: 0.23718406, a: 1}
+  maxLevel: 3
+  timeBeforeSearching: 10
+  levelThresholds: 140000001e000000
+  skillExpValues: 0100000001000000
+  skillPointsPerLevel: 2
+  skillNames:
+  - "Mendicit\xE9:"
+  - 'Animation:'
+  - "C\xE9l\xE9brit\xE9:"
+  featTexts:
+  - "Dons accumul\xE9s:"
+  - "Popularit\xE9 gagn\xE9e:"
+  - "Fans attir\xE9s:"
+  tokens:
+  - {fileID: 21300000, guid: f1a877daefd8bd54691c0c8372ddd92e, type: 3}
+  - {fileID: 21300000, guid: cf159d33795e6104c8fc3b4fdf47655a, type: 3}
+  - {fileID: 21300000, guid: 8025e73a94e38c446a7f8b92a66d6128, type: 3}
+  skillIcons:
+  - {fileID: 21300000, guid: 47ebb9a9fb75b5148956537a10a25782, type: 3}
+  diamondColors:
+  - {r: 0.31674948, g: 0.7735849, b: 0.23718406, a: 1}
+  - {r: 0.17621933, g: 0.8301887, b: 0.55318725, a: 1}
+  - {r: 0.700627, g: 0.8679245, b: 0.1760413, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0, b: 1, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
+  - {r: 0, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0, b: 1, a: 1}
+  skillsColor:
+  - {r: 0.17621933, g: 0.8301887, b: 0.55318725, a: 1}
+  - {r: 0.31674948, g: 0.7735849, b: 0.23718406, a: 1}
+  - {r: 0.700627, g: 0.8679245, b: 0.1760413, a: 1}
+  skillDesc:
+  - "La mendicit\xE9: augmente l'argent g\xE9n\xE9r\xE9 par\nles bardes lors des concerts"
+  - "L'animation: augmente la popularit\xE9 g\xE9n\xE9r\xE9e\npar les bardes lors
+    des concerts"
+  - "La c\xE9l\xE9brit\xE9: augmente la chance que des clients\nne viennent que pour
+    voir le concert"
+  selectionSounds:
+  - {fileID: 8300000, guid: 0bd3ebcb86155924183f2a39c169f2cf, type: 3}
+  - {fileID: 8300000, guid: b649eef6440348445a5dba3de3720206, type: 3}
+  - {fileID: 8300000, guid: ac0233e0005a89343abd368311514f74, type: 3}
+  - {fileID: 8300000, guid: f3eee5b8d585cbf45bcf6ade2d05ac75, type: 3}
+  - {fileID: 8300000, guid: 5cf12e78b7a8fb44fa6b4573f9459662, type: 3}
+  - {fileID: 8300000, guid: 5b0cc3e616e91ad48a33f2db20cacfd9, type: 3}
+  - {fileID: 8300000, guid: a02cae1744de3114ca20c4694e155f60, type: 3}
+  interactionSounds: []

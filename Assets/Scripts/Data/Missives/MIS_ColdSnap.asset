@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98c4046f4524314f9f43741497af4a6, type: 3}
+  m_Name: MIS_ColdSnap
+  m_EditorClassIdentifier: 
+  missiveIcon: {fileID: 0}
+  missiveColor: {r: 0.61489856, g: 0.80067635, b: 0.9245283, a: 1}
+  missiveName: Vague de froid
+  missiveDescription: "Une vague de froid envahi Meadgard !\n<color=#D12121>La nourriture
+    deviens froide plus vite.</color>\n<color=#3B932A>Les boissons reste fra\xEEche
+    plus longtemps.</color>"
+  foodRestockPrice: 1
+  drinkRestockPrice: 1
+  deliveryPrice: 1
+  foodRotting: 1.5
+  drinkRotting: 0.5
+  overallSpawnRate: 1
+  humanSpawnRate: 1
+  dwarfSpawnRate: 1
+  elfSpawnRate: 1
+  jottunSpawnRate: 1
+  waitressFee: 1
+  cookFee: 1
+  bouncerFee: 1
+  bardFee: 1
+  waitressSalary: 1
+  cookSalary: 1
+  bouncerSalary: 1
+  bardSalary: 1
+  furnitureBuyingPrice: 1
+  furnitureUpgradingPrice: 1

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b49b30b17f510a4a873f4a200f157e7, type: 3}
+  m_Name: Gameplay
+  m_EditorClassIdentifier: 
+  gods:
+  - {fileID: 11400000, guid: b98487a0b1947b7478f13827ea4f1b2f, type: 2}
+  - {fileID: 11400000, guid: 537f82d73553f2645a00a593d46bbc83, type: 2}
+  - {fileID: 11400000, guid: b93beeb93c053654ba949156a3bbd7b5, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 8bba85cc35059c843964bddd32d99380, type: 2}
+  - {fileID: 11400000, guid: bb835f9a1a8301242a0d1af2e37ed619, type: 2}
+  straightToStageBaseChance: 0
+  raceChances:
+  - 25
+  - 25
+  - 25
+  - 25
+  rarityChances:
+  - 50
+  - 25
+  - 15
+  - 10
+  - 5
+  rarityColors:
+  - {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 1}
+  - {r: 0.29125133, g: 0.7264151, b: 0.30900812, a: 1}
+  - {r: 0.18195976, g: 0.41955933, b: 0.8207547, a: 1}
+  - {r: 0.68978566, g: 0.24875402, b: 0.8113208, a: 1}
+  - {r: 0.9150943, g: 0.47167787, b: 0.16834284, a: 1}
+  unhappyThreshold: 25
+  happyThreshold: 25
+  unhappyClientsBeforeFight: 5
+  removedPopularityPerFighter: 10
+  moneyToPayForKicking: 20
+  minMinmaxMaxClientSpawnTime: {x: 2, y: 10, z: 30}
+  tablesLevel: 0100000001000000010000000000000000000000
+  countersLevel: 010000000000000000000000
+  shelvesLevel: 010000000000000000000000
+  furnacesLevel: 010000000100000001000000
+  startingWaitresses:
+  - employeeName: "In\xE8s Caf\xE9"
+    employeeLevelup: 0
+    employeeExperience: 0
+    employeeRarity: 0
+    employeeType: 0
+    employeeLevel: 1
+    employeeSkillPoints: 0
+    employeeWage: 5
+    employeeRecruitmentFee: 20
+    employeeSkills: 010000000100000001000000
+    diamondColorIndex: -1
+  startingCooks:
+  - employeeName: Toupti Rikiki
+    employeeLevelup: 0
+    employeeExperience: 0
+    employeeRarity: 0
+    employeeType: 1
+    employeeLevel: 1
+    employeeSkillPoints: 0
+    employeeWage: 5
+    employeeRecruitmentFee: 20
+    employeeSkills: 010000000100000001000000
+    diamondColorIndex: -1
+  startingBouncers:
+  - employeeName: Gromosh Toudur
+    employeeLevelup: 0
+    employeeExperience: 0
+    employeeRarity: 0
+    employeeType: 2
+    employeeLevel: 1
+    employeeSkillPoints: 0
+    employeeWage: 5
+    employeeRecruitmentFee: 20
+    employeeSkills: 010000000100000001000000
+    diamondColorIndex: -1
+  startingBards:
+  - employeeName: "Jonia Lid\xE9e"
+    employeeLevelup: 0
+    employeeExperience: 0
+    employeeRarity: 0
+    employeeType: 3
+    employeeLevel: 1
+    employeeSkillPoints: 0
+    employeeWage: 5
+    employeeRecruitmentFee: 20
+    employeeSkills: 010000000100000001000000
+    diamondColorIndex: -1
+  startingThieves:
+  - thiefName: 
+    thiefHealth: 0
+    thiefMissionIndex: 0
+    thiefMissionChance: 0
+    thiefInMission: 0
+    thiefSkills: 010000000100000001000000
+  - thiefName: 
+    thiefHealth: 0
+    thiefMissionIndex: 0
+    thiefMissionChance: 0
+    thiefInMission: 0
+    thiefSkills: 010000000100000001000000
+  - thiefName: 
+    thiefHealth: 0
+    thiefMissionIndex: 0
+    thiefMissionChance: 0
+    thiefInMission: 0
+    thiefSkills: 010000000100000001000000
+  startAmountMoney: 100
+  startAmountFood: 5
+  startAmountDrinks: 5
+  startAmountPopularity: 25

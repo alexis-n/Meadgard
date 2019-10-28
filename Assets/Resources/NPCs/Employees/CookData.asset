@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11e0b2ff2a92eb45885677abf006310, type: 3}
+  m_Name: CookData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7715c48486a6e0749b373cc55d02d77d, type: 3}
+  color: {r: 0.8, g: 0.48235294, b: 0.1764706, a: 1}
+  maxLevel: 3
+  timeBeforeSearching: 10
+  levelThresholds: 140000001e000000
+  skillExpValues: 0500000005000000
+  skillPointsPerLevel: 2
+  skillNames:
+  - 'Gastronomie:'
+  - 'Mixologie:'
+  - "Efficacit\xE9:"
+  featTexts:
+  - "Nourriture utilis\xE9e:"
+  - "Hydromel utilis\xE9:"
+  - "Commandes pr\xE9par\xE9es:"
+  tokens:
+  - {fileID: 21300000, guid: 7e3a4f31abad2c24cb47d4d5e8189549, type: 3}
+  - {fileID: 21300000, guid: 802ca5ffeab87ae42a149135ce8e5efb, type: 3}
+  - {fileID: 21300000, guid: 344aa31b4b0954d478564e5dc6e20e00, type: 3}
+  skillIcons:
+  - {fileID: 21300000, guid: dd4d307f8f3311b45965c138bca54616, type: 3}
+  diamondColors:
+  - {r: 0.9716981, g: 0.4722843, b: 0.03208439, a: 1}
+  - {r: 0.6792453, g: 0.24260037, b: 0.20825918, a: 1}
+  - {r: 0.8396226, g: 0.5804645, b: 0.18614274, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0, b: 1, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
+  - {r: 0, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0, b: 1, a: 1}
+  skillsColor:
+  - {r: 0.6792453, g: 0.24260037, b: 0.20825918, a: 1}
+  - {r: 0.9056604, g: 0.65097517, b: 0.11534355, a: 1}
+  - {r: 0.8018868, g: 0.4826546, b: 0.17777678, a: 1}
+  skillDesc:
+  - "La gastronomie: augmente la chance du cuisinier\nde pr\xE9parer un plat de qualit\xE9e
+    sup\xE9rieure"
+  - "La mixologie: augmente la chance du cuisinier\nde pr\xE9parer une boisson de
+    qualit\xE9e sup\xE9rieure"
+  - "L'efficacit\xE9: augmente la vitesse avec laquelle le\ncuisinier pr\xE9pare les
+    commandes"
+  selectionSounds:
+  - {fileID: 8300000, guid: 5f99399f04b6f4a4ea3f10dfc8fa19f1, type: 3}
+  - {fileID: 8300000, guid: 1d00bf39803fb6a4683bcfbed0b128ca, type: 3}
+  - {fileID: 8300000, guid: 14edc9aef49095249a54e3f7ec62283c, type: 3}
+  - {fileID: 8300000, guid: 61eb810f0b5aa1540a35f832eef1d476, type: 3}
+  - {fileID: 8300000, guid: 0f1d3bfcb5496d64ba9b1b43ac344c34, type: 3}
+  interactionSounds:
+  - {fileID: 8300000, guid: 5f686554f955ea44392ac1e3c895800c, type: 3}
+  - {fileID: 8300000, guid: 744b177e815214b46937d07f6591ccda, type: 3}
+  - {fileID: 8300000, guid: ac99eff4e1c18d14bb0b9b9c15884d87, type: 3}
+  - {fileID: 8300000, guid: ec0e695fbaf96b34bb030fa1e1472fd1, type: 3}
+  - {fileID: 8300000, guid: 59be254c639507247af6d5cb2356caf4, type: 3}
+  - {fileID: 8300000, guid: b72a4574819157a47a60585baabf25e9, type: 3}
+  - {fileID: 8300000, guid: 072f75e554ce7dd44ae4cac58a268775, type: 3}
+  - {fileID: 8300000, guid: 0d8d8d3b7afaa094ab232c7ba4489681, type: 3}
+  - {fileID: 8300000, guid: aab62114317045e499045e3a4ce58ecb, type: 3}
+  - {fileID: 8300000, guid: 8e2056a46ac30d1448c65da78a3f51a8, type: 3}
+  - {fileID: 8300000, guid: c6ddfe64a935a1149bb70f78dc4426a2, type: 3}

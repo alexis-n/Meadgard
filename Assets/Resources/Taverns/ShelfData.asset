@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eb73f502848e4ab5c0e0cef284740, type: 3}
+  m_Name: ShelfData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 08ff9676086bf79429c7c14f8e21de08, type: 3}
+  color: {r: 0.22027412, g: 0.6226415, b: 0.25375128, a: 1}
+  upgradePrice: 20
+  namePerLevel:
+  - "Emplacement pour \xE9tag\xE8re"
+  - "Petite \xE9tag\xE8re"
+  - "\xE9tag\xE8re"
+  - "Grande \xE9tag\xE8re"

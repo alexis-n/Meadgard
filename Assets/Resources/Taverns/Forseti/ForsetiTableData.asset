@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eb73f502848e4ab5c0e0cef284740, type: 3}
+  m_Name: ForsetiTableData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 90739f59c0e05804e85d4eaa3612fccf, type: 3}
+  color: {r: 0.8679245, g: 0.810521, b: 0.2988608, a: 1}
+  upgradePrice: 20
+  namePerLevel:
+  - table de 4
+  - table de 6
+  - table de 8

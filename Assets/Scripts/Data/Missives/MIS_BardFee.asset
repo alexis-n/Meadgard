@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98c4046f4524314f9f43741497af4a6, type: 3}
+  m_Name: MIS_BardFee
+  m_EditorClassIdentifier: 
+  missiveIcon: {fileID: 0}
+  missiveColor: {r: 0.17621933, g: 0.8301887, b: 0.55318725, a: 1}
+  missiveName: "Remise de dipl\xF4mes de jeunes bardes"
+  missiveDescription: "L'\xE9cole de musique locale viens de dipl\xF4mer plusieurs
+    jeunes bardes.\n<color=#D12121>Ces bardes co\xFBtent plus cher \xE0 embaucher.</color>\n<color=#3B932A>Ces
+    bardes ont un salaire moins \xE9lev\xE9.</color>"
+  foodRestockPrice: 1
+  drinkRestockPrice: 1
+  deliveryPrice: 1
+  foodRotting: 1
+  drinkRotting: 1
+  overallSpawnRate: 1
+  humanSpawnRate: 1
+  dwarfSpawnRate: 1
+  elfSpawnRate: 1
+  jottunSpawnRate: 1
+  waitressFee: 1
+  cookFee: 1
+  bouncerFee: 1
+  bardFee: 1.5
+  waitressSalary: 1
+  cookSalary: 1
+  bouncerSalary: 1
+  bardSalary: 0.5
+  furnitureBuyingPrice: 1
+  furnitureUpgradingPrice: 1

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 4db8ea810c43cac45b7aa152338c2e75
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "Barri\xE8res"
+    100002: Base&Terrasse
+    100004: Cornes
+    100006: DessousToit
+    100008: Fenetre1
+    100010: Fenetre2
+    100012: FenetreToit
+    100014: //RootNode
+    100016: Porte
+    100018: Toit
+    400000: "Barri\xE8res"
+    400002: Base&Terrasse
+    400004: Cornes
+    400006: DessousToit
+    400008: Fenetre1
+    400010: Fenetre2
+    400012: FenetreToit
+    400014: //RootNode
+    400016: Porte
+    400018: Toit
+    2100000: No Name
+    2300000: "Barri\xE8res"
+    2300002: Base&Terrasse
+    2300004: Cornes
+    2300006: DessousToit
+    2300008: Fenetre1
+    2300010: Fenetre2
+    2300012: FenetreToit
+    2300014: Porte
+    2300016: Toit
+    3300000: "Barri\xE8res"
+    3300002: Base&Terrasse
+    3300004: Cornes
+    3300006: DessousToit
+    3300008: Fenetre1
+    3300010: Fenetre2
+    3300012: FenetreToit
+    3300014: Porte
+    3300016: Toit
+    4300000: Base&Terrasse
+    4300002: DessousToit
+    4300004: Toit
+    4300006: "Barri\xE8res"
+    4300008: Fenetre1
+    4300010: Fenetre2
+    4300012: Cornes
+    4300014: Porte
+    4300016: FenetreToit
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

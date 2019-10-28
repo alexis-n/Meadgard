@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fa68a6c3d9dfb4eb194b699a1fad03, type: 3}
+  m_Name: AudioBank
+  m_EditorClassIdentifier: 
+  serviceMusic: {fileID: 8300000, guid: f7932732094f7e447ac0f4097a8132a0, type: 3}
+  prepMusic: {fileID: 8300000, guid: d65e658d7d39d3b4884221be14ce318f, type: 3}
+  dayAmbient: {fileID: 8300000, guid: a966d5e0e351c6e418672c09826daffa, type: 3}
+  nightAmbient: {fileID: 8300000, guid: fc4a4656cb3e79e42ad9574c26401dc4, type: 3}
+  lowCrowdAmbient: {fileID: 8300000, guid: b153d022666f8884581e5573ee84f86e, type: 3}
+  highCrowdAmbient: {fileID: 8300000, guid: b7836928c95971a44b1fa1e6efdac1e0, type: 3}
+  fireplaceAmbient: {fileID: 8300000, guid: 6d2801a82d160f54ab2f067356b1d526, type: 3}
+  drinkFX: {fileID: 8300000, guid: 1da9a8623540f294194b90c0ca5dda3e, type: 3}
+  foodFX: {fileID: 8300000, guid: 61e57b2e47c7a7d428ebd32e032162dd, type: 3}
+  moneyFX: {fileID: 8300000, guid: 64994d91e9c39984b82f18d41cd23ea3, type: 3}
+  hireEmployeeFX: {fileID: 8300000, guid: f8c5ac69e65ea2a418dbfaf1c47c1e58, type: 3}
+  fireEmployeeFX: {fileID: 8300000, guid: 92e545e84a4703740893b623e8c72a1b, type: 3}
+  levelupEmployeeFX: {fileID: 8300000, guid: 5075a5a4991e71449aac46d8ec2932f5, type: 3}
+  serviceStartFX: {fileID: 8300000, guid: 77d105d237d10c64bb6251445cb0ec50, type: 3}
+  serviceEndFX: {fileID: 8300000, guid: ca5ed23b51464994cbabadbedb44d8d5, type: 3}
+  selectionPanelOpenFX: {fileID: 8300000, guid: 75cb26ccff6faf044948af013c5c4698,
+    type: 3}
+  selectionPanelCloseFX: {fileID: 8300000, guid: 923c2c072c3d116489b1e69bb3087359,
+    type: 3}
+  foodReadyFX: {fileID: 8300000, guid: ce0fb99f880c286438a91db596f7042c, type: 3}
+  trashFoodFX: {fileID: 8300000, guid: bac272e2c46104c47a993881fdaea870, type: 3}
+  foodFalls: {fileID: 8300000, guid: e3dc795e6d51ed04a8e56db741dde7de, type: 3}
+  MixingMeadFX: {fileID: 8300000, guid: d09e999dad27d554d892f28c5c1e1d7d, type: 3}
+  BrokenGlassFX: {fileID: 8300000, guid: 22a611c65187a62458586859a5f13bda, type: 3}
+  upgradeFurniture: {fileID: 8300000, guid: 27f33e861b250854ba79eb9c66ea6f4c, type: 3}
+  bifrostPop: {fileID: 8300000, guid: b8e08c8dfce76f6479b6ce01200de96d, type: 3}

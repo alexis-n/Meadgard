@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7472cc69c7feaf844be1d1fefaea6e3c, type: 3}
+  m_Name: Name Generator
+  m_EditorClassIdentifier: 
+  dwarfFirstNames:
+  - Alfrigg
+  - Dvalin
+  - Berling
+  - Grerr
+  - Austri
+  - Nordri
+  - Sudri
+  - Vestri
+  - Eitri
+  - Hreidmar
+  - Lyngheid
+  - Lit
+  - Nabbi
+  - Otr
+  - Regin
+  dwarfPrefixes:
+  - boots
+  - helmet
+  - hammer
+  - axe
+  - sword
+  - finger
+  - head
+  - pants
+  - beard
+  - hair
+  dwardSuffixes:
+  - Hard
+  - Firm
+  - Odd
+  - Deep
+  - First
+  - Second
+  - Last
+  - Proud
+  - Bronze
+  - Iron
+  - Steel
+  - Silver
+  - Gold
+  - Mead
+  - Pork
+  - Boar
+  elfNames:
+  - Ena
+  - Helebalar
+  - Elmyra
+  - Daehice
+  - Sylmare
+  - Valbanise
+  - Yalanue
+  - Vaphyra
+  - Nimue
+  - Crafina
+  - Naevys
+  - Yelgeiros
+  - Haciathra
+  - Daekian
+  - Gaerradh
+  - Wysafaren
+  - Shalana
+  - Carynore
+  - Lyeneru
+  - Eldithas
+  elfTitles:
+  - Sage
+  - Belle
+  - Elegante
+  - Douce
+  - Brave
+  - Gentille
+  - Magnifique
+  - "Fid\xE8le"
+  - Petite
+  - Vieille
+  - Grande
+  - Jeune
+  humanFemaleNames:
+  - Astrid
+  - Brynhild
+  - Freydis
+  - Gudrun
+  - Gunnhild
+  - Gunnvor
+  - Hilde
+  - Ingrid
+  - Ragnhild
+  - Ranveig
+  - Sigrid
+  - Sigrunn
+  - Siv
+  - Solveig
+  - Svanhild
+  - Torhild
+  - Torunn
+  - Turid
+  - Vigdis
+  - Yngvild
+  humanMaleNames:
+  - Arne
+  - Bjorn
+  - Eirik
+  - Geir
+  - Gisle
+  - Gunnar
+  - Harald
+  - Hakon
+  - Inge
+  - Ivar
+  - Knut
+  - Leif
+  - Magnus
+  - Olav
+  - Rolf
+  - Sigurd
+  - Snorre
+  - Steinar
+  - Torstein
+  - Trygve
+  - Ulf
+  - Valdemar
+  - Vidar
+  - Yngve
+  jottunNames:
+  - Sorsar
+  - Ridius
+  - Vralzar
+  - Arulgan
+  - Aleksius
+  - Mamohr
+  - Lulos
+  - Brunos
+  - Bedor
+  - Surziar
+  - Widgar
+  - Zufgant
+  - Aretwar
+  - Blizar
+  - Dravolg
+  - Vlicmohr
+  - Cogsag
+  - Glegkrus
+  - Fexfius
+  - Nemgi
+  jottunTitles:
+  - le Terrible
+  - le Tueur
+  - le Destructeur
+  - la Montagne
+  - "le Conqu\xE9rant"
+  - le Chasseur
+  thiefNames:
+  - Sombrelame
+  - Rougegorge
+  - "Fant\xF4me"
+  - Spectre
+  - Nocturne
+  - Lapeste
+  - Silence
+  - Vautour
+  - Ombre
