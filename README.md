@@ -22,7 +22,7 @@ Meadgard is a management game where the player finds himself at the head of a ta
 
 ## Authors
 
-* **Florian Allard** - *Programmation, UI, Game Design*
-* **David Laforge** - *Modélisation, Sculpting, Texturing, Animation* - [ArtStation](https://www.artstation.com/kungfury)
-* **Lorenzo Lentini** - *Modélisation, Texturing, Sound Design*
-* **Alexis Normand** - *Modélisation, Modélisation, Texturing, Programmation*
+* **Florian Allard** - *programing, UI, Game Design*
+* **David Laforge** - *Modeling, Sculpting, Texturing, Animation* - [ArtStation](https://www.artstation.com/kungfury)
+* **Lorenzo Lentini** - *Modeling, Texturing, Sound Design*
+* **Alexis Normand** - *Modeling, Texturing, programing, Game Design*
