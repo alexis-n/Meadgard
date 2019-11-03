@@ -1,6 +1,6 @@
 # Meadgard
 
-Meadgard is a video game produced as part of a graduation project. The development took place over 8 months, from October 2018 to June 2019.
+Meadgard is a video game produced as part of a graduation project. The development took over 8 months, from October 2018 to June 2019.
 
 ## Pitch
 
